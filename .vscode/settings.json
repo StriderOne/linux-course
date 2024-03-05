@@ -8,6 +8,10 @@
         "bitset": "c",
         "chrono": "c",
         "algorithm": "c",
-        "string": "c"
+        "string": "c",
+        "fcntl.h": "c",
+        "ipc.h": "c",
+        "types.h": "c",
+        "inet.h": "c"
     }
 }
